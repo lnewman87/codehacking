@@ -1,4 +1,4 @@
-@if(count($errors) > 1)
+@if(count($errors) >= 1)
 
     <div class="alert alert-danger">
 
