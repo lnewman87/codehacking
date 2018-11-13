@@ -25,6 +25,8 @@
             <th scope="col">Category</th>
             <th scope="col">Title</th>
             <th scope="col">body</th>
+            <th scope="col">Post Link</th>
+            <th scope="col">Comments</th>
             <th scope="col">Created</th>
             <th scope="col">Updated</th>
         </tr>
